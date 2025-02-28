@@ -18,9 +18,7 @@ public class PlayerController : MonoBehaviour
         horizontalInput = Input.GetAxis("Horizontal");
         verticalInput = Input.GetAxis("Vertical");
 
-        if (horizontalInput != 0) {
-            transform.localScale = new Vector3(Mathf.Sign(horizontalInput), 1, 1);
-        }
+      
 
     }
 
