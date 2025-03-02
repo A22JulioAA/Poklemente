@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '[A]Water7_pipo_0': -4960831859206436704
+      '[A]Water7_pipo_1': 3204683523291334464
+      '[A]Water7_pipo_2': 2397588261199051743
+      '[A]Water7_pipo_3': 8356665763126155107
+      '[A]Water7_pipo_4': -8021209876054193728
+      '[A]Water7_pipo_5': -986822998789782941
+      '[A]Water7_pipo_6': -6774135136728019593
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

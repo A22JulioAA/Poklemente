@@ -572,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '[A]Water3_Cave1_pipo_0': 4841338196046407152
+      '[A]Water3_Cave1_pipo_1': -1109049985918294725
+      '[A]Water3_Cave1_pipo_10': 5600821116243474677
+      '[A]Water3_Cave1_pipo_11': -9133808361843559675
+      '[A]Water3_Cave1_pipo_12': 5941841868742143232
+      '[A]Water3_Cave1_pipo_13': 3493303190250667751
+      '[A]Water3_Cave1_pipo_14': 3738659856413699429
+      '[A]Water3_Cave1_pipo_15': -49534037738159417
+      '[A]Water3_Cave1_pipo_16': 7268562527947540655
+      '[A]Water3_Cave1_pipo_17': 4933910753296869993
+      '[A]Water3_Cave1_pipo_2': -1707037796871758005
+      '[A]Water3_Cave1_pipo_3': -725448025040182205
+      '[A]Water3_Cave1_pipo_4': -4003489415231526143
+      '[A]Water3_Cave1_pipo_5': -3368535862451748904
+      '[A]Water3_Cave1_pipo_6': -1660172083706075709
+      '[A]Water3_Cave1_pipo_7': -5875765229780544259
+      '[A]Water3_Cave1_pipo_8': -4038554563345763266
+      '[A]Water3_Cave1_pipo_9': -4298318309299710075
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

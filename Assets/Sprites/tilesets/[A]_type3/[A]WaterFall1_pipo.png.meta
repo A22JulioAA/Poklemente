@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '[A]WaterFall1_pipo_0': 434261497311094030
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

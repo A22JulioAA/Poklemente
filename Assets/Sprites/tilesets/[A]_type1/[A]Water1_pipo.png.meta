@@ -572,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '[A]Water1_pipo_0': 1750753703947455505
+      '[A]Water1_pipo_1': -5935380660325573069
+      '[A]Water1_pipo_10': 5574922055042711331
+      '[A]Water1_pipo_11': 5871949369032378229
+      '[A]Water1_pipo_12': -4099762051549487991
+      '[A]Water1_pipo_13': -3509673186209376028
+      '[A]Water1_pipo_14': 1952618004274754764
+      '[A]Water1_pipo_15': -2580052276755348475
+      '[A]Water1_pipo_16': 7550153562506901762
+      '[A]Water1_pipo_17': -4831964077891681233
+      '[A]Water1_pipo_2': 2073801099277324420
+      '[A]Water1_pipo_3': 1641899112552563129
+      '[A]Water1_pipo_4': 1402928436128504834
+      '[A]Water1_pipo_5': 6590670464811055470
+      '[A]Water1_pipo_6': 7841274362068372288
+      '[A]Water1_pipo_7': -5418636194304102011
+      '[A]Water1_pipo_8': -3079872295841069483
+      '[A]Water1_pipo_9': 5941259286476380808
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

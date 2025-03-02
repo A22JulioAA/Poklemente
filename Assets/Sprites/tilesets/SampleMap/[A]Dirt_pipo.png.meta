@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '[A]Dirt_pipo_0': -9148452235190743707
+      '[A]Dirt_pipo_1': 8308802528960239275
+      '[A]Dirt_pipo_2': 4426967112371402444
+      '[A]Dirt_pipo_3': -2715410863537375450
+      '[A]Dirt_pipo_4': 459654684326120485
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

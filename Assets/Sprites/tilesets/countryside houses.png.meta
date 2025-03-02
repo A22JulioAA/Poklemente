@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      countryside houses_0: 582597683228736879
+      countryside houses_1: 1311494866532418675
+      countryside houses_2: -1666180340691101019
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
