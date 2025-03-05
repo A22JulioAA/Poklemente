@@ -20,6 +20,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DownstairsFloorScene.unity
     guid: d5fcdde04fe3553de940bf4e9a83232c
+  - enabled: 1
+    path: Assets/Scenes/ExplanationScene.unity
+    guid: 1f92e06255b85314fabf69910e190af0
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2d13bfb6d869f3a4fb73a753b8afa72d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
