@@ -18,6 +18,21 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("MainMenu");
     }
+
+    public void ReturnToOutside()
+    {
+        SceneManager.LoadScene("OutsideScene");
+    }
+
+    public void ReturnToHall()
+    {
+        SceneManager.LoadScene("SampleScene");
+    }
+
+    public void ReturnToSecondFloor()
+    {
+        SceneManager.LoadScene("SecondFloorScene");
+    }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {

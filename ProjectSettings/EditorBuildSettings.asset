@@ -26,6 +26,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 2d13bfb6d869f3a4fb73a753b8afa72d
+  - enabled: 1
+    path: Assets/Scenes/BloqueadoScene.unity
+    guid: bfb04d6ed7375a5439854b1bcdaf5855
+  - enabled: 1
+    path: Assets/Scenes/ClaseDAMScene.unity
+    guid: 96d996fb595b62642bb5600dd3cb791b
+  - enabled: 1
+    path: Assets/Scenes/ArcaDaVellaBloqueadoScene.unity
+    guid: d5cd2b82fd64ebe47933a60b4cad4cd6
+  - enabled: 1
+    path: Assets/Scenes/ArcaDaVellaFinalScene.unity
+    guid: aeba861a24e988547bb01d8bd4c14e64
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
