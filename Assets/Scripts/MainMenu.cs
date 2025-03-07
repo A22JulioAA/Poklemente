@@ -6,12 +6,22 @@ public class MainMenu : MonoBehaviour
 
     public void playGame()
     {
+        if (GameManager.instance != null)
+        {
+            GameManager.instance.ResetGame();
+        }
+
         SceneManager.LoadScene("SampleScene");
     }
 
     public void ShowExplanation()
     {
         SceneManager.LoadScene("ExplanationScene");
+    }
+
+    public void ShowEncuesta()
+    {
+        SceneManager.LoadScene("EvaluacionFinalScene");
     }
 
     public void ReturnToMenu()
@@ -26,6 +36,7 @@ public class MainMenu : MonoBehaviour
 
     public void ReturnToHall()
     {
+        Debug.Log("El botón ha sido presionado");
         SceneManager.LoadScene("SampleScene");
     }
 

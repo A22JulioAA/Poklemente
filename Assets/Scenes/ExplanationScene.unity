@@ -378,8 +378,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "El objetivo del juego es recaudar monedas para pagar el caf\xE9 en el
-    \"Arca da Vella\" (si est\xE1 abierto).\nPara moverte usa las flechas, no hay
-    que ser un makina para intuir como mover el puto mu\xF1eco"
+    \"Arca da Vella\" (si est\xE1 abierto).\nPara moverte usa las flechas o las teclas
+    A - S - W - D.\nSi tienes alguna duda, te apa\xF1as."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: eabaa5f88693243428badb1c7ed47d86, type: 2}
   m_sharedMaterial: {fileID: 625459222916236671, guid: eabaa5f88693243428badb1c7ed47d86, type: 2}

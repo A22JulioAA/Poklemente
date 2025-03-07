@@ -49,7 +49,12 @@ public class GameManager : MonoBehaviour
     {
         if (coinsText == null)
         {
-            coinsText = FindObjectOfType<TextMeshProUGUI>();
+            GameObject obj = GameObject.Find("TotalCoins");
+
+            if (obj != null)
+            {
+                coinsText = obj.GetComponent<TextMeshProUGUI>();
+            }
         }
     }
 
@@ -75,7 +80,7 @@ public class GameManager : MonoBehaviour
     public void ResetGame()
     {
         coins = 0;
-        PlayerPrefs.DeleteKey("monedas");
+        PlayerPrefs.DeleteAll();
     }
 
     public void RestartGame()
